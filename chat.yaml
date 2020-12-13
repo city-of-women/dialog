@@ -1,0 +1,11 @@
+dialog:
+  - object: nail-polish
+    message: You look like you are not from here. Where are you from?
+  - object: orchid
+    message: I’m from China, that’s where I was made. It is a very interesting fact, right?
+  - object: mask
+    message: Do you think you’re more interesting because of your origin?
+  - object: orchid
+    message: Actually I am not a plant but a fake plant. This might be more interesting...?
+  - object: nail-file
+    message: The plant family that the orchid belongs to is called Hodenblüter. Not interesting. Just fun fact.
